@@ -1,5 +1,3 @@
-# JupyterLite Demo
-
 # Welcome to My Jupyter Notebook Collection 
 ## Explore, Learn, and Analyze with Python
 
