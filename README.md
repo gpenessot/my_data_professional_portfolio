@@ -9,17 +9,6 @@
 | [Image of Notebook 1]      | [Image of Notebook 2]      | [Image of Notebook 3]      |
 | Brief description of Notebook 1's purpose and contents.  | Brief description of Notebook 2's purpose and contents.  | Brief description of Notebook 3's purpose and contents.  |
 
-
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
-
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
-
-## ✨ Try it in your browser ✨
-
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
 ## Requirements
 
 JupyterLite is being tested against modern web browsers:
