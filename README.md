@@ -1,6 +1,8 @@
 # Welcome to My Jupyter Notebook Collection 
 ## Explore, Learn, and Analyze with Python
 
+This repository serves as a sandbox for experimenting with different methods of deploying Jupyter notebooks online. The goal is to create an interactive and visually appealing portfolio showcasing my data science projects and skills.
+
 | Notebook 1                  | Notebook 2                  | Notebook 3                  |
 |-----------------------------|-----------------------------|-----------------------------|
 | [Link to Notebook 1](https://portfolio.data-decision.io/notebooks/index.html?path=python.ipynb) | [Link to Notebook 2](https://jupyterlite.github.io/demo) | [Link to Notebook 3](https://jupyterlite.github.io/demo) |
