@@ -5,7 +5,7 @@
 
 | Notebook 1                  | Notebook 2                  | Notebook 3                  |
 |-----------------------------|-----------------------------|-----------------------------|
-| [Link to Notebook 1]([https://jupyterlite.github.io/demo](https://portfolio.data-decision.io/notebooks/index.html?path=python.ipynb) | [Link to Notebook 2](https://jupyterlite.github.io/demo) | [Link to Notebook 3](https://jupyterlite.github.io/demo) |
+| [Link to Notebook 1](https://portfolio.data-decision.io/notebooks/index.html?path=python.ipynb) | [Link to Notebook 2](https://jupyterlite.github.io/demo) | [Link to Notebook 3](https://jupyterlite.github.io/demo) |
 | [Image of Notebook 1]      | [Image of Notebook 2]      | [Image of Notebook 3]      |
 | Brief description of Notebook 1's purpose and contents.  | Brief description of Notebook 2's purpose and contents.  | Brief description of Notebook 3's purpose and contents.  |
 
